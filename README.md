@@ -91,7 +91,3 @@ animation_data = {
 ```
 
 ---
-
-##  Exported Output
-When executing `main_benchmarker.py`, the pipeline builds a synchronized layout, processes historical state metrics, and saves the final simulation trajectory locally as:
-`vehicle_controllers_comparison.gif`
