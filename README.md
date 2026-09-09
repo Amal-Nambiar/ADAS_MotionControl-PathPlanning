@@ -8,8 +8,6 @@ A modular, high-fidelity Python framework for simulating and benchmarking classi
 * **Visualization** :  Vehicle plotter and animation files.
 * **Vehicle**       :  Vehicle configuration and state.
 ---
-![Alternative text](Images/vehicle_controllers_comparison.gif)
-
 ##  Repository Architecture
 
 ```text
@@ -36,8 +34,17 @@ A modular, high-fidelity Python framework for simulating and benchmarking classi
     ├── LQR.py                      # Standalone LQR routine / data packager
     └── AllinOne.py         # 2x2 Master Subplot Runner & GIF Exporter
 ```
-
----
+![Alternative text](Images/vehicle_controllers_comparison.gif)
+<table>
+  <tr>
+    <td><img src="Images/AStar_stanley.gif" alt="AStar Stanley" width="100%"></td>
+    <td><img src="Images/Dijkstra_stanley.gif" alt="Dijkstra Stanley" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Hybrid_AStar.gif" alt="Hybrid AStar" width="100%"></td>
+    <td><img src="Images/State_Lattice_Stanley.gif" alt="State Lattice Stanley" width="100%"></td>
+  </tr>
+</table>
 
 ##  Setup & Installation
 
