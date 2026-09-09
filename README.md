@@ -64,3 +64,5 @@ A modular, high-fidelity Python framework for simulating and benchmarking classi
   </tr>
 </table>
 
+## Frenet trajectory Planner
+![Alternative text](Images/frenet_simulation.gif)
