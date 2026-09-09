@@ -49,7 +49,10 @@ A modular, high-fidelity Python framework for simulating and benchmarking classi
     ├── LQR.py                      # Standalone LQR routine / data packager
     └── AllinOne.py         # 2x2 Master Subplot Runner & GIF Exporter
 ```
+## Controllers
 ![Alternative text](Images/vehicle_controllers_comparison.gif)
+
+## Path Planning 
 <table>
   <tr>
     <td><img src="Images/AStar_stanley.gif" alt="AStar Stanley" width="100%"></td>
